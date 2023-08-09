@@ -39,7 +39,7 @@ sequenceDiagram
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/gonzalo8642/code-structure-visualizer.git
+   git clone https://github.com/Gonzalo8642/code-structure-visualizer.git
    cd
    ```
 

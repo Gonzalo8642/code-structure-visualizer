@@ -119,7 +119,7 @@ function generateMermaidMarkdown(results) {
   return mermaidMarkdown;
 }
 function getEscapedParticipantName(filePath) {
-  return filePath.replace(/:/g, "&#58;"); // Mermaid uses ":", so we need to escape it
+  return filePath.replace(/:/g, "#58;"); // Mermaid uses ":", so we need to escape it
 }
 function getFileParticipantName(filePath) {
   return filePath.replace(/:/g, "_");

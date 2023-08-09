@@ -16,8 +16,6 @@ In modern web applications, understanding the flow of API calls and their intera
 
 # Page: ./example-projects/next-data-fetch-app/pages/index.tsx
 
-# Page: ./example-projects/next-data-fetch-app/pages/index.tsx
-
 ```mermaid
 sequenceDiagram
   /index.tsx->>"https_//api.github.com/repos/vercel/next.js": Fetch API call

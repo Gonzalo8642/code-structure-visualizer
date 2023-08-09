@@ -22,8 +22,6 @@
   "dependencies": {
     "@babel/parser": "^7.22.7",
     "@babel/traverse": "^7.22.8",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.44.0",
     "gitignore-parser": "^0.0.2"
   }
 }

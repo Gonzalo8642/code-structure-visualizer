@@ -40,7 +40,7 @@ sequenceDiagram
 
    ```sh
    git clone https://github.com/Gonzalo8642/code-structure-visualizer.git
-   cd
+   cd code-structure-visualizer
    ```
 
 2. Install Dependencies at the root directory
